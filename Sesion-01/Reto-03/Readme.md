@@ -14,7 +14,18 @@
 
 ### 3. Desarrollo :rocket:
 
-Usando la base de datos `tienda`, escribe una consulta que permita obtener el top 5 de puestos por salarios.
+Usando la base de datos `tienda`, escribe consultas que permitan obtener:
+
+* El top 5 de mejores salarios
+* Los 15 productos mas baratos
+* Los primeros 10 empleados, ordenados por nombre y apellido paterno.
+
+Tip: Puedes ordenar por mas de un campo.
+
+**Reto adicional:**
+
+* Busca los productos mas baratos, tomando en cuenta el IVA. Para esto, puedes usar operaciones aritméticas en `order by`.
+	
 
 <br/>
 
