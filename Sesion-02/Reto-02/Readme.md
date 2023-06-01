@@ -17,9 +17,10 @@
 Usando la base de datos `tienda`, escribe consultas que permitan responder las siguientes preguntas.
 
 - ¿Cuál es el promedio de salario de los puestos?
-- ¿Cuántos artículos incluyen la palabra `Pasta` en su nombre?
+- ¿Cuántos artículos incluyen la palabra `Coffee` o `Tea` en su nombre?
 - ¿Cuál es el salario mínimo y máximo?
 - ¿Cuál es la suma del salario de los últimos cinco puestos agregados?
+- ¿Cual es precio promedio de un producto? Considerando el IVA.
 
 <br/>
 
