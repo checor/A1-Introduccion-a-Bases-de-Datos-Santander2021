@@ -18,9 +18,15 @@ Usando la base de datos `tienda`, escribe consultas que permitan responder las s
 
 - ¿Cuántos registros hay por cada uno de los puestos?
 - ¿Cuánto dinero se paga en total por puesto?
-- ¿Cuál es el número total de ventas por vendedor?
-- ¿Cuál es el número total de ventas por artículo?
+- ¿Cuál es el número total de ventas por vendedor? Ordénalos de mayor a menor número de ventas.
+- ¿Cuál es el número total de ventas por artículo? Ordénalos de menor a mayor.
 
+**Reto extra 💪**
+
+¿Cuales son los 10 puestos de trabajo con mayor diferencia entre su salario máximo y mínimo?
+
+Utiliza un [alias](https://parzibyte.me/blog/2018/10/25/alias-mysql-as-en-mysql/) para mostrar esta diferencia.
+Utiliza [round()](https://dev.mysql.com/doc/refman/8.0/en/mathematical-functions.html#function_round) para limitar los decimales a 2.
 <br/>
 
 [`Anterior`](../Ejemplo-03/Readme.md) | [`Siguiente`](../Readme.md)         
