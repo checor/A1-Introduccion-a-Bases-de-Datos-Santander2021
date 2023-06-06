@@ -20,7 +20,7 @@
 
 :warning: <ins>**IMPORTANTE**</ins>
 
-_Para este reto necesitarás un identificador único. Tu identificador serán los últimos tres dígitos de tu número de celular. Por ejemplo, si tu número es: 5512345678 tu identificador debe ser 678. <ins>¡No lo olvides!</ins>_   
+_Para este reto necesitarás un identificador único. Tu identificador será tu primer nombre, y los últimos tres dígitos de tu número de celular. Por ejemplo, si tu nombre es José y tu número es: 5512345678 tu identificador debe ser J678. <ins>¡No lo olvides!</ins>_   
 
 _**Te pedimos esto para que todos puedan realizar los ejemplos y retos.**_
 
