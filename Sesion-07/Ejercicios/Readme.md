@@ -14,7 +14,7 @@
 
 ### 3. Desarrollo :rocket:
 
-Continuaremos trabajando con la base de datos de películas y sus comentarios.
+Continuaremos trabajando con la base de datos de películas y sus comentarios `mflix`.
 
 El ejercicio consiste en obtener, por país, el número de películas que hay de cada género. Un ejemplo de salida, en formato de tabla, sería:
 
